@@ -3,10 +3,10 @@
  ***Professor Gustavo Guanabara***
  
  ### Desenvolvimento do Projeto
+ ---
  
  - [ ] Home
  - [ ] Especificações
  - [ ] Fotos
  - [ ] Multimídia
  - [ ] Fale conosco
- ---
