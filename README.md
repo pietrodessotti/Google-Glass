@@ -1,5 +1,5 @@
 # HTML-CSS
- **Projeto do curso de HTML5 com CSS e Javascript.**
+ **Projeto do curso de HTML5 com CSS3 e Javascript.**
   
  ---
  ### Andamento do Projeto
