@@ -1,8 +1,9 @@
 # HTML-CSS
  **Projeto do curso de HTML5 com CSS e Javascript**
- ***Professor Gustavo Guanabara***
  
- ### Desenvolvimento do Projeto
+ ***Desenvolvido pelo Professor Gustavo Guanabara***
+ 
+ ### Andamento do Projeto
  ---
  
  - [ ] Home
