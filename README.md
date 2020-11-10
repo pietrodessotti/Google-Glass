@@ -5,7 +5,7 @@
  ### Andamento do Projeto
  ---
  
- - [ ] Home
+ - [ ] Home (80%)
  - [ ] Especificações
  - [ ] Fotos
  - [ ] Multimídia
