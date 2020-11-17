@@ -66,7 +66,7 @@ a:hover {
 
 #cabecalho img#icone {
     position: absolute;
-    left: 1050px;
+    left: 1250px;
     top: 60px;
 }
 
@@ -85,7 +85,7 @@ nav#menu ul {
     text-transform: uppercase;
     position: absolute;
     top: 0px;
-    left: 600px;
+    left: 800px;
 }
 
 nav#menu li {
@@ -148,9 +148,6 @@ nav#menu a:hover {
 }
 
 
-#cabecalho-artigo h3 {
-
-}
 
 /* Formatação de imagens com legendas */
 
